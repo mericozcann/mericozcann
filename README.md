@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-As a statistician and data analyst candidate, I am a lifelong learner who aims for self-realization, possessing both a realistic and idealistic.
+As a statistician, junior data analyst, aspiring data scientist. I am a lifelong learner who aims for self-realization, possessing both a realistic and idealistic.
 
 ---
 
