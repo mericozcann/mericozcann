@@ -10,7 +10,7 @@ As a statistician, junior data analyst and aspiring data scientist. I am a lifel
 
 ## 🚀 Featured Projects
 - 🤖 [AI Group 76 Project](https://github.com/yemre345561/AI-grup76)
-- 📚 [AI Group 76 Project](https://github.com/mericozcann/Student-Club-Scoring-Algorithm)
+- 📚 [Student Club Scoring Algorithm](https://github.com/mericozcann/Student-Club-Scoring-Algorithm)
 - 📊 [Product Price Prediction – YZTA Datathon 2025](https://github.com/mericozcann/Product-Price-Prediction-YZTA-Datathon-2025)  
 - 🛍 [Sentiment Analysis of Women's Clothing Products](https://github.com/mericozcann/Sentiment-Analysis-of-Women-s-Clothing-Products)    
 
