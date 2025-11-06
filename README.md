@@ -9,6 +9,7 @@ As a statistician, junior data analyst and aspiring data scientist. I am a lifel
 ---
 
 ## 🚀 Featured Projects
+- ⛏️ [Statistical Modeling of Thorium 232 Transformation](https://github.com/mericozcann/Statistical-Modeling-of-Thorium-232-Transformation)
 - 🤖 [AI Group 76 Project](https://github.com/yemre345561/AI-grup76)
 - 📚 [Student Club Scoring Algorithm](https://github.com/mericozcann/Student-Club-Scoring-Algorithm)
 - 📊 [Product Price Prediction – YZTA Datathon 2025](https://github.com/mericozcann/Product-Price-Prediction-YZTA-Datathon-2025)  
