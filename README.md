@@ -9,7 +9,7 @@ As a statistician, junior data analyst and aspiring data scientist. I am a lifel
 ---
 
 ## 🚀 Featured Projects
-- ⚛ [Econophysics-Based Systemic Risk Forecasting Model for Financial Markets](https://github.com/mericozcann/systemic-stress-lab/tree/main)
+- ⚛ [EconSSI — Physics-Informed Systemic Stress Intelligence for Financial Markets](https://github.com/mericozcann/systemic-stress-lab/tree/main)
 - 💸 [Integrated Transactional and Behavioral Risk Scoring with Interpretable AI](https://github.com/mericozcann/explainable-financial-anomaly-intelligence/tree/main)
 - 🤖 [Insider AI-Weekend LLM Studies](https://github.com/mericozcann/Insider-AI-Weekend-LLM-Studies/tree/main)
 - ⛏️ [Statistical Modeling of Thorium 232 Transformation](https://github.com/mericozcann/Statistical-Modeling-of-Thorium-232-Transformation)
