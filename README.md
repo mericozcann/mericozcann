@@ -9,12 +9,12 @@ As a statistician, junior data analyst and aspiring data scientist. I am a lifel
 ---
 
 ## 🚀 Featured Projects
+- 🚚 [TUBITAK 2209-A Project: Optimization of Safe Cargo Delivery with Artificial Intelligence](https://github.com/mericozcann/TUBITAK-2209-A-Project--Optimization-of-Safe-Cargo-Delivery-with-Artificial-Intelligence)
 - ⚛ [EconSSI — Physics-Informed Systemic Stress Intelligence for Financial Markets](https://github.com/mericozcann/systemic-stress-lab/tree/main)
 - 💸 [Integrated Transactional and Behavioral Risk Scoring with Interpretable AI](https://github.com/mericozcann/explainable-financial-anomaly-intelligence/tree/main)
 - 🤖 [Insider AI-Weekend LLM Studies](https://github.com/mericozcann/Insider-AI-Weekend-LLM-Studies/tree/main)
 - ⛏️ [Statistical Modeling of Thorium 232 Transformation](https://github.com/mericozcann/Statistical-Modeling-of-Thorium-232-Transformation)
-- 📑 [AI Group 76 Project](https://github.com/yemre345561/AI-grup76)
-- 📈 [Student Club Scoring Algorithm](https://github.com/mericozcann/Student-Club-Scoring-Algorithm)    
+- 📑 [AI Group 76 Project](https://github.com/yemre345561/AI-grup76)   
 
 ---
 
