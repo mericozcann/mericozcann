@@ -25,7 +25,7 @@
 
 ## 📌 Additional Selected Work
 
-- 🤖 [Insider AI Weekend — LLM Studies](https://github.com/mericozcann/Insider-AI-Weekend-LLM-Studies/tree/main)
+- 🤖 [Insider AI Weekend — LLM Studies](https://github.com/mericozcann/Insider-AI-Weekend-LLM-Studies)
 - ⛏️ [Statistical Modeling of Thorium-232 Transformation](https://github.com/mericozcann/Statistical-Modeling-of-Thorium-232-Transformation)
 - 📑 [AI Group 76 Project](https://github.com/yemre345561/AI-grup76)
 
