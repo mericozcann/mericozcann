@@ -1,3 +1,14 @@
+<!-- HERO / INTERACTIVE HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2F80ED&size=28&center=true&vCenter=true&width=1000&lines=Meriç+Özcan;Statistics+Student+%7C+Junior+Data+Analyst;Quantitative+Risk+%26+Fraud+Analytics;AI-Driven+Optimization+%7C+Risk+Intelligence" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 > Building interpretable, quantitative risk intelligence at the intersection of statistics, AI, and complex systems.
@@ -9,17 +20,13 @@
 
 ---
 
-## 🚀 Featured Projects (Visual Portfolio)
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mericozcann&repo=systemic-stress-lab&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mericozcann&repo=TUBITAK-2209-A-Project--Optimization-of-Safe-Cargo-Delivery-with-Artificial-Intelligence&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mericozcann&repo=explainable-financial-anomaly-intelligence&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mericozcann&repo=wdi-ekc-sustainability-framework&theme=radical" />
-</p>
+### 🔹 Core Projects
+- ⚛ **[EconSSI — Systemic Stress Intelligence](https://github.com/mericozcann/systemic-stress-lab)**
+- 🚚 **[TÜBİTAK 2209-A — AI-Based Safe Cargo Optimization](https://github.com/mericozcann/TUBITAK-2209-A-Project--Optimization-of-Safe-Cargo-Delivery-with-Artificial-Intelligence)**
+- 💸 **[Explainable Financial Anomaly Intelligence](https://github.com/mericozcann/explainable-financial-anomaly-intelligence)**
+- 🏦 **[WDI–EKC Sustainability Framework](https://github.com/mericozcann/wdi-ekc-sustainability-framework)**
 
 ---
 
@@ -33,42 +40,23 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-2F80ED?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2F80ED?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-2F80ED?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2F80ED?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-2F80ED?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2F80ED?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2F80ED?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2F80ED?style=for-the-badge&logo=github&logoColor=white)
+Python · Pandas · NumPy · Matplotlib · Scikit-Learn · SQL · Git · GitHub
 
 ---
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mericozcann&show_icons=true&theme=radical&icon_color=ff79c6"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mericozcann&layout=compact&theme=radical"
-    height="165"
-  />
-</p>
+![Meriç Özcan GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericozcann&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mericozcann&layout=compact&theme=radical)
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mericozcann&theme=radical&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6"
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mericozcann&theme=radical)
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriç-özcan)
-[![Website](https://img.shields.io/badge/Website-2F80ED?style=for-the-badge&logo=About.me&logoColor=white)](https://mericozcan.com)
-[![Linktree](https://img.shields.io/badge/Linktree-2F80ED?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mericozcan)
-[![Kaggle](https://img.shields.io/badge/Kaggle-2F80ED?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/merizcan)
-[![Email](https://img.shields.io/badge/Email-2F80ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mericozcan.edu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/meriç-özcan) ·
+[Website](https://mericozcan.com) ·
+[Linktree](https://linktr.ee/mericozcan) ·
+[Kaggle](https://www.kaggle.com/merizcan) ·
+[Email](mailto:mericozcan.edu@gmail.com)
