@@ -9,6 +9,7 @@ As a statistician, junior data analyst and aspiring data scientist. I am a lifel
 ---
 
 ## 🚀 Featured Projects
+- 🏦 [WDI–EKC Based Sustainability Assessment Framework](https://github.com/mericozcann/wdi-ekc-sustainability-framework)
 - 🚚 [TUBITAK 2209-A Project: Optimization of Safe Cargo Delivery with Artificial Intelligence](https://github.com/mericozcann/TUBITAK-2209-A-Project--Optimization-of-Safe-Cargo-Delivery-with-Artificial-Intelligence)
 - ⚛ [EconSSI — Physics-Informed Systemic Stress Intelligence for Financial Markets](https://github.com/mericozcann/systemic-stress-lab/tree/main)
 - 💸 [Integrated Transactional and Behavioral Risk Scoring with Interpretable AI](https://github.com/mericozcann/explainable-financial-anomaly-intelligence/tree/main)
