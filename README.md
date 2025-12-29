@@ -1,21 +1,3 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:1B3C59&height=200&section=header&text=Quantitative%20Risk%20%7C%20AI%20%7C%20Statistics&fontSize=36&fontColor=ffffff&animation=fadeIn"
-  />
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?color=2F80ED&size=24&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Meriç+Özcan;Statistics+Student+%7C+Junior+Data+Analyst;Quantitative+Risk+%26+Fraud+Analytics;AI-Driven+Optimization+%7C+Risk+Intelligence;Lifelong+Learner+with+a+Realistic+and+Idealistic+Mindset" 
-    />
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 > Building interpretable, quantitative risk intelligence at the intersection of statistics, AI, and complex systems.
@@ -23,6 +5,7 @@
 - Statistics student and **Junior Data Analyst** focused on **Quantitative Risk, Fraud Analytics, and AI-driven optimization**.
 - Experienced in transforming **statistical theory, machine learning, and optimization models** into real-world decision-support systems.
 - Strong interest in **financial markets, logistics risk, systemic stress modeling, and explainable AI**.
+- **Currently a 3rd-year Statistics undergraduate, actively seeking internship and junior-level opportunities in data and risk analytics.**
 
 ---
 
@@ -38,7 +21,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mericozcann&repo=wdi-ekc-sustainability-framework&theme=radical" />
 </p>
 
-### 📌 Additional Selected Work
+---
+
+## 📌 Additional Selected Work
+
 - 🤖 [Insider AI Weekend — LLM Studies](https://github.com/mericozcann/Insider-AI-Weekend-LLM-Studies/tree/main)
 - ⛏️ [Statistical Modeling of Thorium-232 Transformation](https://github.com/mericozcann/Statistical-Modeling-of-Thorium-232-Transformation)
 - 📑 [AI Group 76 Project](https://github.com/yemre345561/AI-grup76)
