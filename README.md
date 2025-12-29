@@ -4,8 +4,8 @@
 ---
 
 ## 👨‍💻 About Me
-Junior Data Analyst | Statistics Student | Quantitative Risk & Fraud Analytics.
-I am a lifelong learner who aims for self-realization, possessing both a realistic and idealistic.
+- Junior Data Analyst | Statistics Student | Quantitative Risk & Fraud Analytics.
+- I am a lifelong learner who aims for self-realization, possessing both a realistic and idealistic.
 
 ---
 
