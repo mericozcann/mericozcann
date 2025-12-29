@@ -4,7 +4,8 @@
 ---
 
 ## 👨‍💻 About Me
-As a statistician, junior data analyst and aspiring data scientist. I am a lifelong learner who aims for self-realization, possessing both a realistic and idealistic.
+Junior Data Analyst | Statistics Student | Quantitative Risk & Fraud Analytics.
+I am a lifelong learner who aims for self-realization, possessing both a realistic and idealistic.
 
 ---
 
@@ -32,8 +33,18 @@ As a statistician, junior data analyst and aspiring data scientist. I am a lifel
 ---
 
 ## 📊 GitHub Stats
-![Meriç's GitHub stats](https://github-readme-stats.vercel.app/api?username=mericozcann&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mericozcann&layout=compact&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mericozcann&show_icons=true&theme=radical&hide_border=true" 
+    alt="Meriç Özcan GitHub Stats"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mericozcann&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
 ---
 
