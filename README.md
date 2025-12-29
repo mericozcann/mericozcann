@@ -39,16 +39,18 @@
 ---
 
 ### Core Analytics & Modeling
-Python · Pandas · NumPy · Scikit-Learn · Statistical Modeling · Feature Engineering
+Python · Pandas · NumPy · Scikit-Learn · Statistical Modeling (Regression, Inference) · Feature Engineering
 
 ### Risk, Optimization & Systems
-Quantitative Risk Analysis · Fraud & Anomaly Detection · Optimization Modeling · Time Series · Systemic Risk
+Quantitative Risk Analysis · Fraud & Anomaly Detection · Optimization Modeling · Time Series Analysis · Systemic Risk
 
-### Data & Visualization
-SQL · Exploratory Data Analysis (EDA) · Matplotlib · Interpretability (SHAP)
+### Data, Visualization & Interpretability
+SQL (Analytical Queries) · Exploratory Data Analysis (EDA) · Data Cleaning & Validation · 
+Matplotlib · Risk-Oriented Visualization · Model Interpretability (SHAP)
 
-### Tools & Workflow
-Git · GitHub · Jupyter / Colab · Reproducible Research
+### Tools, Workflow & Research Practices
+Git & GitHub (Version Control) · Jupyter / Google Colab · 
+Experiment Tracking · Reproducible Research · Structured Notebooks & Reporting
 
 ---
 
