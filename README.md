@@ -38,18 +38,17 @@
 
 ---
 
-## 🛠 Tech Stack
+### Core Analytics & Modeling
+Python · Pandas · NumPy · Scikit-Learn · Statistical Modeling · Feature Engineering
 
-Python · Pandas · NumPy · Matplotlib · Scikit-Learn · SQL · Git · GitHub
+### Risk, Optimization & Systems
+Quantitative Risk Analysis · Fraud & Anomaly Detection · Optimization Modeling · Time Series · Systemic Risk
 
----
+### Data & Visualization
+SQL · Exploratory Data Analysis (EDA) · Matplotlib · Interpretability (SHAP)
 
-## 📊 GitHub Activity
-
-![Meriç Özcan GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericozcann&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mericozcann&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mericozcann&theme=radical)
+### Tools & Workflow
+Git · GitHub · Jupyter / Colab · Reproducible Research
 
 ---
 
