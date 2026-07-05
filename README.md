@@ -23,15 +23,16 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Core Projects
+- 🕸️ **[RYPE — Explainable Operational Risk Intelligence](https://github.com/mericozcann/rype-risk-intelligence)
 - ⚛ **[EconSSI — Systemic Stress Intelligence](https://github.com/mericozcann/systemic-stress-lab)**
 - 🚚 **[TÜBİTAK 2209-A — AI-Based Safe Cargo Optimization](https://github.com/mericozcann/TUBITAK-2209-A-Project--Optimization-of-Safe-Cargo-Delivery-with-Artificial-Intelligence)**
 - 💸 **[Explainable Financial Anomaly Intelligence](https://github.com/mericozcann/explainable-financial-anomaly-intelligence)**
-- 🏦 **[WDI–EKC Sustainability Framework](https://github.com/mericozcann/wdi-ekc-sustainability-framework)**
 
 ---
 
 ## 📌 Additional Selected Work
 
+- 🏦 **[WDI–EKC Sustainability Framework](https://github.com/mericozcann/wdi-ekc-sustainability-framework)**
 - 🤖 [Insider AI Weekend — LLM Studies](https://github.com/mericozcann/Insider-AI-Weekend-LLM-Studies)
 - ⛏️ [Statistical Modeling of Thorium-232 Transformation](https://github.com/mericozcann/Statistical-Modeling-of-Thorium-232-Transformation)
 - 📑 [AI Group 76 Project](https://github.com/yemre345561/AI-grup76)
