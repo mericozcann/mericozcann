@@ -23,7 +23,7 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Core Projects
-- 🕸️ **[RYPE — Explainable Operational Risk Intelligence](https://github.com/mericozcann/rype-risk-intelligence)
+- 🕸️ [RYPE — Explainable Operational Risk Intelligence](https://github.com/mericozcann/rype-risk-intelligence)
 - ⚛ **[EconSSI — Systemic Stress Intelligence](https://github.com/mericozcann/systemic-stress-lab)**
 - 🚚 **[TÜBİTAK 2209-A — AI-Based Safe Cargo Optimization](https://github.com/mericozcann/TUBITAK-2209-A-Project--Optimization-of-Safe-Cargo-Delivery-with-Artificial-Intelligence)**
 - 💸 **[Explainable Financial Anomaly Intelligence](https://github.com/mericozcann/explainable-financial-anomaly-intelligence)**
